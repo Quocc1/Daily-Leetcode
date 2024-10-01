@@ -1,5 +1,6 @@
 /**
  * Leetcode 1497. Check If Array Pairs Are Divisible by k
+ * Date: 01/10/2024
  * @param {number[]} arr
  * @param {number} k
  * @return {boolean}
@@ -26,8 +27,6 @@ var canArrange = function (arr, k) {
     const remainder = ((num % k) + k) % k;
     remainderCounters[remainder] = (remainderCounters[remainder] || 0) + 1;
   }
-
-  console.log(remainderCounters);
 
   for (const key in remainderCounters) {
     const index = parseInt(key);
