@@ -1,6 +1,7 @@
 /**
  * Leetcode 1497. Check If Array Pairs Are Divisible by k
  * Date: 01/10/2024
+ * Level: Medium
  * @param {number[]} arr
  * @param {number} k
  * @return {boolean}
