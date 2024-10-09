@@ -6,7 +6,6 @@
  * @return {number}
  */
 var minAddToMakeValid = function (s) {
-  let output = 0;
   let countOpen = 0;
   let countClose = 0;
 
@@ -21,5 +20,5 @@ var minAddToMakeValid = function (s) {
       }
     }
   }
-  return (output = countOpen + countClose);
+  return countOpen + countClose;
 };
