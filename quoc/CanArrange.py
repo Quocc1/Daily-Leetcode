@@ -24,6 +24,7 @@
 from collections import defaultdict
 from typing import List
 
+
 class Solution:
   def canArrange(self, arr: List[int], k: int) -> bool:
     reminders = defaultdict(int)
@@ -38,11 +39,6 @@ class Solution:
         if reminders[reminder] != reminders[k - reminder]:
           return False
     return True
-    
-    
-    
-    
-    
     
 if __name__ == "__main__":
     solution = Solution()
