@@ -52,6 +52,6 @@ class Solution:
 if __name__ == "__main__":
     solution = Solution()
     print(solution.fractionToDecimal(1, 2)) # "0.5"
-    # print(solution.fractionToDecimal(2, 1)) # "2"
-    # print(solution.fractionToDecimal(4, 333)) # "0.(012)"
+    print(solution.fractionToDecimal(2, 1)) # "2"
+    print(solution.fractionToDecimal(4, 333)) # "0.(012)"
 
