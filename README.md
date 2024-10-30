@@ -30,7 +30,7 @@
 | 27/10/2024 | [Leetcode 40: Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Quoc](https://github.com/Quocc1/Daily-Leetcode/blob/main/quoc/CombinationSumII.py) [Tuan](https://github.com/user2/combination-sum-ii.py) |
 | 28/10/2024 | [Leetcode 43: Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Quoc](https://github.com/Quocc1/Daily-Leetcode/blob/main/quoc/MultiplyStrings.py) [Tuan](https://github.com/user2/multiply-strings.py) |
 | 29/10/2024 | [Leetcode 45: Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Quoc](https://github.com/Quocc1/Daily-Leetcode/blob/main/quoc/JumpGameII.py) [Tuan](https://github.com/user2/jump-game-ii.py) |
-| 30/10/2024 | [Leetcode 46: Permutations](https://leetcode.com/problems/permutations/) | [Quoc](https://github.com/user1/permutations.py) [Tuan](https://github.com/user2/permutations.py) |
+| 30/10/2024 | [Leetcode 46: Permutations](https://leetcode.com/problems/permutations/) | [Quoc](https://github.com/Quocc1/Daily-Leetcode/blob/main/quoc/Permutations.py) [Tuan](https://github.com/user2/permutations.py) |
 | 31/10/2024 | [Leetcode 47: Permutations II](https://leetcode.com/problems/permutations-ii/) | [Quoc](https://github.com/user1/permutations-ii.py) [Tuan](https://github.com/user2/permutations-ii.py) |
 | 01/11/2024 | [Leetcode 49: Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Quoc](https://github.com/user1/group-anagrams.py) [Tuan](https://github.com/user2/group-anagrams.py) |
 | 02/11/2024 | [Leetcode 50: Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Quoc](https://github.com/user1/powx-n.py) [Tuan](https://github.com/user2/powx-n.py) |
