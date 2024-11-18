@@ -5,11 +5,11 @@
  * Date: 30/10/2024
  * @param {list[int]} nums
  * @return {list[list[int]]}
- * 
+ *
  *  Example 1:
     Input: nums = [1,2,3]
     Output: [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]]
-    
+
     Example 2:
     Input: nums = [0,1]
     Output: [[0,1],[1,0]]
@@ -31,7 +31,7 @@ class Solution:
             for perm in self.permute(nums[:i] + nums[i+1:]):
                 result.append([nums[i]] + perm)
         return result
-    
+
 if __name__ == "__main__":
     sol = Solution()
     print(sol.permute([1,2,3])) # [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]]
